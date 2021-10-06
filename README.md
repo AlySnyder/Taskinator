@@ -1,2 +1,2 @@
 # Taskinator
-My take on a Kanban blard
+My take on a Kanban board. 
